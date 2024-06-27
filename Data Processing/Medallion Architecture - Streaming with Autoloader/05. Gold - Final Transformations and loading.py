@@ -19,7 +19,7 @@ env = dbutils.widgets.get("env")
 
 spark.conf.set(
     "fs.azure.account.key.storagejif01.dfs.core.windows.net",
-    "Q4XwAdeVnRBYFhf2AbumNbtePQ2jWu9ddsYYC4Wj3FZKP0Q1bH+4d+bCcuiN3FhRr5uDbDoTh3pV+AStYzfCNQ==")
+    <account-key>)
 
 # COMMAND ----------
 
